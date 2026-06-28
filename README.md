@@ -26,6 +26,8 @@ npm run build
 npm run preview
 ```
 
+## Licença
+
 Todos os direitos reservados.
 
 Este repositório é disponibilizado exclusivamente para fins de visualização e demonstração do portfólio da Continuums.
