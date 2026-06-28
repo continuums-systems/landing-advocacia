@@ -8,28 +8,28 @@ const testimonials = [
     city: 'São Paulo - SP',
     rating: 5,
     text: 'Fui muito bem atendida pela equipe do Dr. Carlos. Resolveram meu caso trabalhista com rapidez e profissionalismo. Recomendo de olhos fechados.',
-    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80',
+    image: 'https://picsum.photos/seed/cliente1/200/200',
   },
   {
     name: 'João Vitor Martins',
     city: 'Campinas - SP',
     rating: 5,
     text: 'Excelente escritório! Me auxiliaram em uma questão empresarial complexa e o resultado superou minhas expectativas. Equipe muito competente.',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80',
+    image: 'https://picsum.photos/seed/cliente2/200/200',
   },
   {
     name: 'Ana Lúcia Fernandes',
     city: 'São Bernardo - SP',
     rating: 5,
     text: 'A Dra. Juliana foi incrível no meu processo de divórcio. Além de profissional exemplar, teve toda a sensibilidade que eu precisava no momento.',
-    image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80',
+    image: 'https://picsum.photos/seed/cliente3/200/200',
   },
   {
     name: 'Roberto Alves Junior',
     city: 'Santo André - SP',
     rating: 4,
     text: 'Escritório sério e comprometido. Meu caso previdenciário foi tratado com muita atenção e consegui a aposentadoria que buscava. Recomendo.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80',
+    image: 'https://picsum.photos/seed/cliente4/200/200',
   },
 ]
 

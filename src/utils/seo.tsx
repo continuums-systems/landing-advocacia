@@ -21,7 +21,7 @@ const organizationSchema = {
     opens: '09:00',
     closes: '18:00',
   },
-  image: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=80',
+  image: 'https://picsum.photos/seed/og-image/1200/630',
   sameAs: ['https://linkedin.com/in/advocaciasilva', 'https://instagram.com/advocaciasilva'],
 }
 

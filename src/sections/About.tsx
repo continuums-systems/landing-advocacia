@@ -48,7 +48,7 @@ export default function About() {
           >
             <div className="rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1600880292203-757bb90b4af7?w=600&q=80"
+                src="https://picsum.photos/seed/about/600/400"
                 alt="Equipe do escritório Silva e Associados em reunião"
                 className="w-full h-80 md:h-96 object-cover"
               />

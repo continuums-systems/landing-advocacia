@@ -67,14 +67,14 @@ export default function Hero() {
             <div className="relative">
               <div className="w-96 h-[28rem] rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=80"
+                  src="https://picsum.photos/seed/hero-main/600/700"
                   alt="Advogado em seu escritório atendendo cliente"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="absolute -bottom-4 -left-4 w-40 h-40 rounded-2xl overflow-hidden shadow-lg border-4 border-white">
                 <img
-                  src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=200&q=80"
+                  src="https://picsum.photos/seed/hero-team/200/200"
                   alt="Equipe de advogados reunidos"
                   className="w-full h-full object-cover"
                   loading="lazy"
