@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Advocacia Silva & Associados - Landing Page
 
 Landing page premium para escritório de advocacia, desenvolvida com React, TypeScript, Tailwind CSS e Framer Motion.
@@ -25,3 +26,22 @@ npm run dev
 npm run build
 npm run preview
 ```
+=======
+# landing-advocacia
+
+## Licença
+
+Este projeto é disponibilizado exclusivamente para fins de demonstração do portfólio da Continuums.
+
+A visualização do código é permitida.
+
+Nenhuma permissão é concedida para:
+
+- copiar;
+- modificar;
+- redistribuir;
+- reutilizar;
+- utilizar comercialmente.
+
+Todos os direitos reservados © Continuums.
+>>>>>>> 5d9851c55fadd967f1675fa32f27b7825e0637cb
